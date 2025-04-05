@@ -25,7 +25,7 @@ Este repositorio contiene una serie de cuadernos interactivos (`. . . . . . . . 
  Exploración de los indicadores de producción y análisis de desempleo operativo.
 
 2. `EDA_SatisfaccionClientes.ipynb`  
- Analisis de la experiencia del cliente con visualizaciones enfocadas en reclamos y tiempos de respuesta.
+ Análisis de la experiencia del cliente con visualizaciones enfocadas en reclamos y tiempos de respuesta.
 
 3. `EDA_AuditoriasInternas.ipynb`  
  Evaluación de las auditorías internas con énfasis en no conformidades por área y su tumbadad.
@@ -57,7 +57,7 @@ Este material busca que el estudiante:
 
 ---
 
-## ?? ¦ Requisitos Técnicos
+## Requisitos Técnicos
 - Cuaderno Google Colab o Jupyter
 - Pitón 3.9+
 - Bibliotecas: `pandas`, `numpy`, `matplotlib`, `cuerno de mar`
@@ -68,14 +68,12 @@ Este material busca que el estudiante:
 1. Descargue o clon el repositorio.
 2. Abra cada cuaderno en [Colaboración de Google](https://colab.research.google.com/) o en su entorno local.
 3. Cargue los archivos `. . . . . . . . . . .csv` al iniciar cada cuaderno.
-4. Siga las instrucciones paso a paso en las celdas de código y análisis.
+4. Siga las instrucciones paso a paso en las celdas de código y analisis.
 
 ---
 
-## ?? Autor ¦
-Cristian Alejandro Zafra Rodríguez  
-Especializada en Gerencia Estratégica de la Calidad  
-Universidad Antonio Nariño
+## Autor 
+Cristian Alejandro Zafra Rodríguez 
 
 ---
 
